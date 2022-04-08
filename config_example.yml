@@ -1,11 +1,14 @@
+# 服务 bind 地址
 BIND_HOST: "0.0.0.0"
-HTTP_PORT: 8080
 
+# 数据库代理暴露的端口
 MYSQL_PORT: 33060
 MARIA_DB_PORT: 33061
 POSTGRESQL_PORT: 54320
 
+# 日志级别
 LOG_LEVEL: "info"
 
+# jumpserver api grpc 组件地址
 WISP_HOST: "localhost"
 WISP_PORT: 9090
