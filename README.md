@@ -20,7 +20,7 @@ Magnus 是 JumpServer 的数据库安全连接组件，支持多种数据库协�
 - [x] MariaDB
 - [x] PostgreSQL (X-Pack)
 - [ ] SQL Server (X-Pack)
-- [ ] Oracle (X-Pack)
+- [x] Oracle (X-Pack)
 
 ## 要求
 
