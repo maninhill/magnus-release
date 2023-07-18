@@ -1,7 +1,7 @@
 # Magnus
 
 ## 介绍
-Magnus 是 JumpServer 的数据库安全连接组件，支持多种数据库协议，使用Golang实现，名字来源于 Dota 英雄 [猛犸](https://www.dota2.com/hero/magnus) 。
+Magnus 是 JumpServer 的数据库安全连接组件，支持多种数据库协议，使用Golang实现，名字来源于 Dota 英雄 [为什么不ban](https://www.dota2.com/hero/magnus) 。
 
 该仓库主要用于配置介绍和 Release 发布。
 
