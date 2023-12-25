@@ -22,6 +22,7 @@ Magnus 使用Golang实现，名字来源于 Dota 英雄 [为什么不ban](https:
 - [x] MariaDB
 - [x] PostgreSQL (X-Pack)
 - [x] Oracle (X-Pack)
+- [x] SQLServer (X-Pack)
 
 ## 要求
 
